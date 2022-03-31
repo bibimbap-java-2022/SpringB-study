@@ -21,4 +21,4 @@
 |Date |Participant|Topic|Place|
 |--|--|--|--|
 |2022-03-31|`support0911`,`sterdsterd`,`?`| 깃허브 레포지토리 생성|Online|
-|2022-04-03|`support0911`,`sterdsterd`, `?`| 줌 온라인 스터디 |K-cube|
+|2022-04-03|`support0911`,`sterdsterd`, `?`| 줌 온라인 스터디 |Online|
