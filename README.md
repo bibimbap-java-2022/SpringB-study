@@ -14,8 +14,8 @@
 
 **이한샘**
 <a href="https://github.com/guding0407"><img src="https://img.shields.io/github/followers/guding0407?label=guding0407&style=social"/></a>
-![Badge](https://img.shields.io/badge/email-hh5792@naver.com-red)
-> Hello World!
+![Badge](https://img.shields.io/badge/email-hh5792@naver.com-blue)
+> 안녕하세요! 컴퓨터공학과 22학번 이한샘입니다!
 
 ### 📆 Calendar
 |Date |Participant|Topic|Place|
