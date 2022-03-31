@@ -13,7 +13,7 @@
 > Hello World!
 
 **이한샘**
-<a href="https://github.com/?"><img src="https://img.shields.io/github/followers/??label=?&style=social"/></a>
+<a href="https://github.com/guding0407"><img src="https://img.shields.io/github/followers/guding0407?label=guding0407&style=social"/></a>
 ![Badge](https://img.shields.io/badge/email-hh5792@naver.com-red)
 > Hello World!
 
